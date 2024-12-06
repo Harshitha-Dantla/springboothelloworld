@@ -1,0 +1,15 @@
+create repository 
+open the project right click-> show in -> terminal
+1.git init
+2. git remote add origin "https://github.com/Harshitha-Dantla/springboothelloworld.git"
+3.git remote remove origin if needed
+4.git add .(current folder)
+5.git commit -m "message"
+6.git config --global user.name "" optional
+7.git config --global user.email ""optional
+8.git log to check mail and name
+9.git push origin master
+
+
+
+git remote add origin "https://github.com/Harshitha-Dantla/jfsd.git"
